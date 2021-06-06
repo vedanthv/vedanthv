@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedanth</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-- 🔭 I’m currently working on [MusicHealsTheSoul](github.com/prox-gen)
+- 🔭 I’m currently working on MusicHealsTheSoul
 
 - 🌱 I’m currently learning **Tensorflow and Pytorch**
 
