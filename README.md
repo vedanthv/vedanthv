@@ -44,3 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanthv&show_icons=true&locale=en" alt="vedanthv" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanthv&" alt="vedanthv" /></p>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedanthv&)"><img src="https://activity-graph.herokuapp.com/graph?username=vedanthv&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
