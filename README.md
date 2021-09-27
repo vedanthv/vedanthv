@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedanth V Baliga</h1>
-<h3 align="center">An Aspiring Software Engineer looking to solve complex problems through open source!</h3>
+<h3 align="center">An Aspiring Software Engineer and Open Source Enthusiast. Always open to contributing to projects!🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanthv&label=Profile%20views&color=0e75b6&style=flat" alt="vedanthv" /> </p>
 
