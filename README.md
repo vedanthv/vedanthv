@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/baligavedanth" target="blank"><img src="https://img.shields.io/twitter/follow/baligavedanth?logo=twitter&style=for-the-badge" alt="baligavedanth" /></a> </p>
 
+<center><img align="right" alt="GIF" width="420" height="360" src="https://www.activebittechnologies.com/img/abt/wed-development.gif" /></center>
+
 - 🌱 I’m currently learning **CSS3 and JavaScript. Also looking at blending my Data Science knowledge to build interesting projects**
 
 - 👯 I’m looking to collaborate on **Interesting projects and products that have a potential startup idea!**
@@ -16,8 +18,10 @@
 - 📫 How to reach me **vedanthvbaliga@gmail.com**
 
 - ⚡ Fun fact **I'm ambidextrous :)**
+ 
 
 # 👩‍💻 Projects
+
 | Index | Project Name | Tech Stack |
 |:------:|:-----------------:|:------:|
 |   1  |[PRNTRS](https://github.com/Tech-Matrix/PRNTRS)| HTML, CSS, JS, NodeJS, Payments with Stripe, Authentication with Passport and Google,Passwordless OTP Authentication with SAWO Labs API and Technical Documentation|
