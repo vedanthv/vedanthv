@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vedanthv.github.io/portfolioApp/](https://vedanthv.github.io/portfolioApp/)
 
-- 💬 Ask me about **Python, CSS3, TailwindCSS and Javascript**
+- 💬 Ask me about **Frontend Technologies**
 
 - 📫 How to reach me **vedanthvbaliga@gmail.com**
 
